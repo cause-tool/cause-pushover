@@ -1,0 +1,30 @@
+{
+  "name": "cause-pushover",
+  "version": "0.0.0",
+  "description": "sends out a pushover notification",
+  "main": "index.js",
+  "license": "CC-BY-NC-SA-4.0",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "freder.code@gmail.com",
+  "dependencies": {
+    "lodash": "^4.5.1",
+    "pushover-notifications": "^0.2.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/freder/cause-pushover.git"
+  },
+  "keywords": [
+    "cause",
+    "cause-block",
+    "pushover",
+    "notification"
+  ],
+  "bugs": {
+    "url": "https://github.com/freder/cause-pushover/issues"
+  },
+  "homepage": "https://github.com/freder/cause-pushover"
+}
